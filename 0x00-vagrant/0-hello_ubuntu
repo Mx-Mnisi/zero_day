@@ -1,2 +1,1 @@
-echo "When the 'uname' command is run without any option then it prints the cernal name"
-note [the to letters to the right of 'h' do not operate. Therefore the c represents the second letter to the right of 'h']
+echo "When the 'uname' command is run without any option then Linux prints the just the kernal name"
